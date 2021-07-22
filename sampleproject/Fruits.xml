@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl "href="Fruits.xsl" ?>
+<Fruits>
+	
+	<Fruit>
+		<name>	"Apple"	</name>
+		<color>"Red"</color>
+	</Fruit>
+	
+	<Fruit>
+		<name>"Banana"</name>
+		<color>"Yellow"</color>
+	</Fruit>
+	
+</Fruits>
